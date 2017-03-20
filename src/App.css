@@ -1,0 +1,74 @@
+.App {
+ text-align: left;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 400px;
+  width: 60%;
+  margin-top: 40px;
+  margin-left: 320px;
+  margin-right: 100px;
+  color: white;
+  padding-top: 60px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.Signin {
+  background-color: #444;
+  height: 1380px;
+  width: 1550px;
+  margin-bottom: 30px;
+  margin-left: 50px;
+  margin-right: 100px;
+  margin-top: 30px;
+}
+.Top {
+  padding-top: 100px;
+}
+
+.Register{ 
+  background-color: #222;
+  height: 800px;
+  width: 60%;
+  margin-top: 40px;
+  margin-left: 300px;
+  margin-right: 300px;
+  color: white;
+  padding-top: 60px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+a.button{
+  width: 200px;
+  height: 50px;
+  margin-top: 50px;
+  background-color: #1E90FF;
+  color: #FFFFFF;
+  margin-left: 100px;
+}
+
+b.button{
+  width: 200px;
+  height: 50px;
+  margin-top: 50px;
+  background-color: #dba85c;
+  color: #FFFFFF;
+  margin-left: 100px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
